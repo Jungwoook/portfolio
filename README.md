@@ -6,7 +6,7 @@
 - API 개발, 데이터베이스 설계 및 관리, 웹 서버 구현 및 유지보수, 서버 성능 최적화 등을경험하였습니다. 
 
 ## 기술 스택
-- Language: Java, Python, JavaScript
+- Language: Java, C++, Python, JavaScript
 - Framework: Spring Boot, node.js
 - Database: MySQL, PostgreSQL, MongoDB
 - Tools: Git
